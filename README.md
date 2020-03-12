@@ -4,4 +4,4 @@
 
 2. https://www.learnpython.org/
 
-3.https://runestone.academy/runestone/books/published/thinkcspy/index.html
+3. https://runestone.academy/runestone/books/published/thinkcspy/index.html
