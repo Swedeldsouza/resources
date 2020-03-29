@@ -11,3 +11,8 @@
 
 
 
+
+5.data science https://towardsdatascience.com/5-steps-of-a-data-science-project-lifecycle-26c50372b492
+
+
+
