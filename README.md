@@ -1,4 +1,4 @@
-# resources for python lovers 
+# resources 
 
 1. https://www.techbeamers.com/python-tutorial-step-by-step/
 
