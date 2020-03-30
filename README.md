@@ -17,3 +17,6 @@
 
 
 6.data science resources https://mastersindatascience.com/resources/top-100-data-science-resources/
+
+
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
