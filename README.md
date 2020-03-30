@@ -16,3 +16,4 @@
 
 
 
+6.data science resources https://mastersindatascience.com/resources/top-100-data-science-resources/
