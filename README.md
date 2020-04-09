@@ -20,3 +20,5 @@
 
 
 https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+
+7.data wrangling(data munging) https://towardsdatascience.com/data-wrangling-with-pandas-5b0be151df4e
