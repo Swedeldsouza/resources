@@ -25,3 +25,5 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 
 
 8.SQL : https://www.w3schools.com/sql/default.asp
+
+9.numpy :https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f
