@@ -29,3 +29,5 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 9.numpy :https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f
 
 10.numpy :https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54
+
+11.scikit-learn https://www.guru99.com/scikit-learn-tutorial.html
