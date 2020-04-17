@@ -31,3 +31,6 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 10.numpy :https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54
 
 11.scikit-learn https://www.guru99.com/scikit-learn-tutorial.html
+
+
+12.numpy https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
