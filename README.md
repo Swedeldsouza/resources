@@ -34,3 +34,6 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 
 
 12.numpy https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+
+
+13.tutorial point https://www.tutorialspoint.com/tutorialslibrary.htm
