@@ -7,7 +7,7 @@
 3. https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
 
-4.dictionary https://www.merriam-webster.com/dictionary/(a)%20quarter%20after
+4.dictionary :https://www.merriam-webster.com/dictionary/(a)%20quarter%20after
 
 
 
