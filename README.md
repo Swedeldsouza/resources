@@ -37,3 +37,5 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 
 
 13.tutorial point https://www.tutorialspoint.com/tutorialslibrary.htm
+
+14.Excel 1: https://www.excel-easy.com/
