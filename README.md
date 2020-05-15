@@ -7,16 +7,16 @@
 3. https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
 
-4.dictionary :https://www.merriam-webster.com/dictionary/(a)%20quarter%20after
+4.dictionary : https://www.merriam-webster.com/dictionary/(a)%20quarter%20after
 
 
 
 
-5.data science https://towardsdatascience.com/5-steps-of-a-data-science-project-lifecycle-26c50372b492
+5.data science : https://towardsdatascience.com/5-steps-of-a-data-science-project-lifecycle-26c50372b492
 
 
 
-6.data science resources https://mastersindatascience.com/resources/top-100-data-science-resources/
+6.data science resources : https://mastersindatascience.com/resources/top-100-data-science-resources/
 
 
 https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
@@ -37,6 +37,7 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 
 
 13.tutorial point https://www.tutorialspoint.com/tutorialslibrary.htm
+
 
 14.Excel 1: https://www.excel-easy.com/
 
