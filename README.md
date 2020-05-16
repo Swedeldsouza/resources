@@ -19,20 +19,20 @@
 
 8.SQL : https://www.w3schools.com/sql/default.asp
 
-9.numpy :https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f
+9.numpy : https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f
 
-10.numpy :https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54
+10.numpy : https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54
 
-11.scikit-learn https://www.guru99.com/scikit-learn-tutorial.html
-
-
-12.numpy https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+11.scikit-learn : https://www.guru99.com/scikit-learn-tutorial.html
 
 
-13.tutorial point https://www.tutorialspoint.com/tutorialslibrary.htm
+12.numpy ; https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
 
 
-14.Excel 1: https://www.excel-easy.com/
+13.tutorial point : https://www.tutorialspoint.com/tutorialslibrary.htm
 
 
-15. ANDROID https://www.tutorialspoint.com/android/android_hello_world_example.htm
+14.Excel 1 : https://www.excel-easy.com/
+
+
+15. ANDROID : https://www.tutorialspoint.com/android/android_hello_world_example.htm
