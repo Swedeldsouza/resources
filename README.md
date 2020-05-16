@@ -6,20 +6,13 @@
 
 3. https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
-
 4.dictionary : https://www.merriam-webster.com/dictionary/(a)%20quarter%20after
-
-
-
 
 5.data science : https://towardsdatascience.com/5-steps-of-a-data-science-project-lifecycle-26c50372b492
 
-
-
 6.data science resources : https://mastersindatascience.com/resources/top-100-data-science-resources/
 
-
-https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
 
 7.data wrangling(data munging) : https://towardsdatascience.com/data-wrangling-with-pandas-5b0be151df4e
 
