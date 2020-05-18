@@ -25,7 +25,7 @@
 
 11.scikit-learn : https://www.guru99.com/scikit-learn-tutorial.html
 
-12.numpy ; https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+12.numpy :  https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
 
 13.tutorial point : https://www.tutorialspoint.com/tutorialslibrary.htm
 
