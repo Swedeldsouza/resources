@@ -7,7 +7,8 @@
 3. https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
 4.dictionary : https://www.merriam-webster.com/dictionary/(a)%20quarter%20after
-               https://www.thesaurus.com/list/a
+               
+   https://www.thesaurus.com/list/a
 
 5.data science : https://towardsdatascience.com/5-steps-of-a-data-science-project-lifecycle-26c50372b492
 
